@@ -96,8 +96,8 @@ O menu mobile foi implementado com as seguintes características:
 
 ## 📞 Contato
 
-Para mais informações, entre em contato através do WhatsApp: (XX) XXXXX-XXXX
+Para mais informações, entre em contato através do WhatsApp: (89) 98106-2936
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. 
+Este projeto está sob a licença Alessandri Oliveira Castro da Silva. 
